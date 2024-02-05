@@ -18,7 +18,7 @@
     padding: 7px;
 }
 .logo{
-    background: url(images/logo.png);
+    background: url(logo.png);
     background-size: contain;
     width: 100%;
     background-repeat: no-repeat;
@@ -126,7 +126,7 @@
 .slider{
     height: 600px;
     width: 100%;
-    background-image: url(images/cover1.jpg);
+    background-image: url(cover1.jpg);
     background-size: cover;
     display: flex;
     font-size: 2.6rem;
@@ -139,25 +139,25 @@
 
 @keyframes slidingeffect {
     0%{
-        background-image: url(images/cover1.jpg);
+        background-image: url(cover1.jpg);
     }
     15%{
-        background-image: url(images/cover2.jpg);
+        background-image: url(cover2.jpg);
     }
     30%{
-        background-image: url(images/cover3.jpg);
+        background-image: url(cover3.jpg);
     }
     45%{
-        background-image: url(images/cover4.jpg);
+        background-image: url(cover4.jpg);
     }
     60%{
-        background-image: url(images/cover5.jpg);
+        background-image: url(cover5.jpg);
     }
     80%{
-        background-image: url(images/cover6.jpg);
+        background-image: url(cover6.jpg);
     }
     100%{
-        background-image: url(images/cover7.jpg);
+        background-image: url(cover7.jpg);
     }
 }
 .leftbtn{
