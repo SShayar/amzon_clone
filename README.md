@@ -1,36 +1,43 @@
-🛍 Welcome to the Amazon Clone! 🎁
-This is a simple static website built using HTML & CSS, designed to replicate the look and feel of Amazon's homepage. 💻🎨
+🛍 Welcome to the Amazon Clone! 🎁<br>
+This is a simple static website built using HTML & CSS, designed to replicate the look and feel of Amazon's homepage. 💻🎨<br>
 
 <p align="right"> <a href="https://github.com/krishanmurariji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Krishan_murari" height="30" width="40" /></a> </p>
-📝 Table of Contents
-Features
-Tech Stack
-Usage
-Author
-🌟 Features
-Header with navigation bar
-Main content section displaying products
-Footer with links
-💻 Tech Stack
+📝 Table of Contents<br>
+Features<br>
+Tech Stack<br>
+Usage<br>
+Author<br>
+🌟 Features<br>
+Header with navigation bar<br>
+Main content section displaying products<br>
+Footer with links<br>
+💻 Tech Stack<br>
 Client: HTML, CSS
 
-🚀 Usage
-To use the Amazon Clone, simply open the index.html file in your web browser.
+🚀 Usage<br>
+To use the Amazon Clone, simply open the index.html file in your web browser.<br>
 
-👨‍💻 Author
-👤 Krishan Murari
+👨‍💻 Author<br>
+👤 Krishan Murari<br>
 
-Github: @krishanmurariji
-LinkedIn: LinkedIn
-Twitter: @KrishanMuraari
-Instagram: @krishanmurariji
-🤝 Contributing
-Contributions, issues and feature requests are welcome!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/krishanmurariji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Krishan_murari" height="30" width="40" /></a>
+&nbsp;
+<a href="https://leetcode.com/Krishanmurariji/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Krishan_murari" height="30" width="40" /></a>
+&nbsp;
 
-Feel free to check the issues page.
+&nbsp;
+<a href="https://linkedin.com/in/krishan-murari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krishan_murari" height="30" width="40" /></a>
+&nbsp;
+<a href="https://twitter.com/KrishanMuraari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Krishan_murari" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.instagram.com/krishanmurariji/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krishan_murari" height="30" width="40" /></a>
+&nbsp;
 
-Show your support
-Give a ⭐️ if you like this project!
 
-📝 License
-This project is MIT licensed.
+🤝 Contributing<br>
+Contributions, issues and feature requests are welcome!<br>
+Feel free to check the issues page.<br>
+Show your support<br>
+Give a ⭐️ if you like this project!<br>
+
