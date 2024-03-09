@@ -1,21 +1,19 @@
 🛍 Welcome to the Amazon Clone! 🎁<br>
-This is a simple static website built using HTML & CSS, designed to replicate the look and feel of Amazon's homepage. 💻🎨<br>
-
-<p align="right"> <a href="https://github.com/krishanmurariji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Krishan_murari" height="30" width="40" /></a> </p>
+--->This is a simple static website built using HTML & CSS, designed to replicate the look and feel of Amazon's homepage. 💻🎨<br>
 📝 Table of Contents<br>
-Features<br>
-Tech Stack<br>
-Usage<br>
-Author<br>
+--->Features<br>
+--->Tech Stack<br>
+--->Usage<br>
+--->Author<br>
 🌟 Features<br>
-Header with navigation bar<br>
-Main content section displaying products<br>
-Footer with links<br>
+--->Header with navigation bar<br>
+--->Main content section displaying products<br>
+--->Footer with links<br>
 💻 Tech Stack<br>
-Client: HTML, CSS
+--->Client: HTML, CSS
 
 🚀 Usage<br>
-To use the Amazon Clone, simply open the index.html file in your web browser.<br>
+--->To use the Amazon Clone, simply open the index.html file in your web browser.<br>
 
 👨‍💻 Author<br>
 👤 Krishan Murari<br>
